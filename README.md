@@ -1,2 +1,2 @@
 # default_layout
-A basic default layout for projects and website structure
+This is a default layout for general project based web page.
